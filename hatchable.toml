@@ -1,0 +1,5 @@
+# Hatchable project manifest. This file marks the folder as a
+# Hatchable project and declares the services it uses.
+# Reference: https://hatchable.com/docs/developers/config
+name = "Valley of the Lost"
+description = "A single-player open-world zombie survival game. Build the playable survival experience through Phase 7, prioritizing readable controls, fair difficulty, realistic infection spread from Patient Zero, and survivor NPCs. Keep systems focused and avoid feature bloat."
